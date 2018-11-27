@@ -4,7 +4,7 @@
 
 #ifndef MIDTERM2_STANDARD_DEVIATION_HPP
 #define MIDTERM2_STANDARD_DEVIATION_HPP
-#include <cmath>
+#include <math.h>
 
 using namespace std;
 

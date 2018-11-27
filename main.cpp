@@ -27,7 +27,7 @@ int main() {
     return 0;
 }
 
-MyMap<string, int> readFile(const string& fileName){
+MyMap<string, int> readFile(string fileName){
     MyMap<> mymap;
     ifstream file{fileName, ios_base::in};
     if(!file.is_open()) {
